@@ -80,9 +80,12 @@ Once you've activated the orb, hold left until you have landed on the first ledg
 
 ### Bear Crusher
 `TODO`
+![Bear Crusher](/images/BearCrusher.png)
 
 ### Marathon
 `TODO`
+![Marathon Short](/images/MarathonShort.png)
+![Marathon Long](/images/MarathonLong.png)
 
 ### Wheel of Fortune
 `TODO`
