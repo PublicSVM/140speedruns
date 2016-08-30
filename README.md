@@ -1,6 +1,8 @@
 # 140speedruns
 This article is meant as a guide to speedrunning the game **140** by Jeppe Carlsen.
 
+For a guide on catching the orbs as early as possible, see [this guide by Zet](http://www.speedrun.com/140/guide/7z6rx).
+
 # Level 1
 ## 1.0
 Hold right (and jump as appropriate) until you catch orb 1.1, then immediately turn left.
