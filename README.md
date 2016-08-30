@@ -9,7 +9,8 @@ Hold right (and jump as appropriate) until you catch orb 1.1, then immediately t
 
 ## 1.1
 Don't miss elevator cycles, then catch the orb as far to the right as possible, as seen in the picture below.
-`TODO picture`
+
+![Orb 1.2](/images/Orb1.2.png)
 
 ## 1.2
 After a short wait, land on the first block as it appears, then hold right until you get to the first incline. Jump when appropriate.
