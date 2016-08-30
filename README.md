@@ -13,6 +13,8 @@ Don't miss elevator cycles, then catch the orb as far to the right as possible, 
 After a short wait, land on the first block as it appears, then hold right until you get to the first incline. Jump when appropriate.
 This is the beginning of **Level 1 Skip**.
 
+![Level 1 Skip Start](/images/Level1SkipStart.png)
+
 ### Level 1 Skip - Part 1
 `TODO`
 
