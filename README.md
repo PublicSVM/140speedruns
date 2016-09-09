@@ -1,9 +1,12 @@
 # 140speedruns
 This article is meant as a resource to speedrunning the game **140** by Jeppe Carlsen.
 
-You may also want to check out the following guides by Zet:  
+**You may also want to check out the following guides by Zet:**  
 When to stop and start the timer, as well as remove loads: [guide](http://www.speedrun.com/140/guide/xqqt3)  
 Orb catching and early activations: [guide](http://www.speedrun.com/140/guide/7z6rx)  
+
+**For Windows users with Livesplit:**  
+Check out the auto-splitter by TehGelly: [link](https://github.com/TehGelly/140-autosplitter)  
 
 First off, let's start with area names.
 
