@@ -8,7 +8,15 @@ Orb catching and early activations: [guide](http://www.speedrun.com/140/guide/7z
 **For Windows users with Livesplit:**  
 Check out the auto-splitter by TehGelly: [link](https://github.com/TehGelly/140-autosplitter)  
 
-First off, let's start with area names.
+# Boss 3, Phase 3
+There is an easy way to beat the last phase of boss 3.
+As long as you always start with the shooter pointing down, you can follow the pattern
+
+```
+at, at, away, at, at, at, away
+```
+
+Where `at` is the direcion of the arrow pointing towards you appeared.
 
 # Level 1
 ## Level 1 skip
